@@ -1,0 +1,11 @@
+﻿## Tutorial Matplolib e Seaborn
+
+**matplotlib**  is a  [plotting](https://en.wikipedia.org/wiki/Plotter "Plotter")  [library](https://en.wikipedia.org/wiki/Library_%28computer_science%29 "Library (computer science)")  for the  [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29 "Python (programming language)")  programming language and its numerical mathematics extension  [NumPy](https://en.wikipedia.org/wiki/NumPy "NumPy"). It provides an  [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming "Object-oriented programming")  [API](https://en.wikipedia.org/wiki/API "API")for embedding plots into applications using general-purpose  [GUI toolkits](https://en.wikipedia.org/wiki/GUI_toolkit "GUI toolkit")  like  [Tkinter](https://en.wikipedia.org/wiki/Tkinter "Tkinter"),  [wxPython](https://en.wikipedia.org/wiki/WxPython "WxPython"),  [Qt](https://en.wikipedia.org/wiki/Qt_%28software%29 "Qt (software)"), or  [GTK+](https://en.wikipedia.org/wiki/GTK%2B "GTK+"). There is also a  [procedural](https://en.wikipedia.org/wiki/Procedural_programming "Procedural programming")  “pylab” interface based on a  [state machine](https://en.wikipedia.org/wiki/State_machine "State machine")  (like  [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL")), designed to closely resemble that of  [MATLAB](https://en.wikipedia.org/wiki/MATLAB "MATLAB"), though its use is discouraged.[[2]](https://en.wikipedia.org/wiki/Matplotlib#cite_note-2)  [SciPy](https://en.wikipedia.org/wiki/SciPy "SciPy")  makes use of matplotlib.
+
+pyplot is a matplotlib module which provides a MATLAB-like interface.[[6]](https://en.wikipedia.org/wiki/Matplotlib#cite_note-6)matplotlib is designed to be as usable as MATLAB, with the ability to use Python, with the advantage that it is free.
+### References
+**Lesson 1:**  [Plotting in Python](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/3.%20Plotting.ipynb)
+
+**Lesson 2 :**  [Tools for visualizing data](https://github.com/helpthx/Data_Science/blob/master/EdX/GTx:%20CSE6040x:%20FA18%20-%20Computing%20for%20Data%20Analysis/Module%201:%20%20Representing%2C%20transforming%20and%20visualizing%20data/Topic%208:%20Visualizing%20data%20and%20results/Notebook_8.ipynb)
+
+
